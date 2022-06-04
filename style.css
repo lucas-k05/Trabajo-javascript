@@ -1,0 +1,108 @@
+* {
+    font-size: 16px;
+}
+.text-uppercase{
+    text-align: center;
+}
+.card .card-body .btn-warning{
+    font-weight: bold;
+    
+}
+.card .card-body .btn-info{
+    font-weight: bold;
+    color: white;
+    background-color: rgb(20, 164, 190);
+}
+.card .card-body .btnoradores{
+        font-size: 0.8rem;
+        font-weight: bold;
+        padding: 0rem 0.3rem 0rem 0.3rem;
+        margin-top: 0.75rem;
+}
+.card-text{
+    font-size: 0.95rem;
+    margin-left: .4rem;
+    margin-top: .8rem;
+    padding-bottom: 0.5rem;
+
+}
+.card .btn-warning{
+margin-left: .4rem;
+}
+.card .btn-secondary{
+    margin-left: .4rem;
+}
+.card-title{
+    margin-left: .4rem;
+    font-size: 1.4rem;
+    margin-top: .2rem;
+}
+/* .card-group{
+    display: flex;
+    margin-left: 0rem;
+} */
+.text-success{
+    margin-right: 5rem;
+}
+.nav-link{
+    margin-inline-start: 0.3rem;
+}
+.bg-image .mask{
+    position: sticky;
+    
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    color:#fff;
+}
+.honolulu{
+    background-color: rgb(53, 58, 64)
+}
+.colornav{
+    background-color: rgb(53, 58, 64)
+}
+.botonblanco{
+    padding: 0.4rem;
+    background-color:rgb(53, 58, 64)
+}
+.conviertete{
+    text-align: center;
+}
+.tx{
+    margin-top: 5;
+}
+.areadetexto{
+    justify-content: center;
+}
+.botonenviar{
+    background-color: rgb(150, 201, 62);
+    font-size: 1.1rem;
+}
+.pie{
+    background-color: rgb(29, 67, 88);
+    
+}
+.textopie{
+   margin-left: 3rem;
+   margin-right: 3rem;
+}
+
+.btn-success{
+    background-color: rgb(44, 166, 69);
+}
+.edif{
+    margin-left: 65rem;
+    margin-top: 18rem;
+}
+.card-group{
+    display: flex;
+    flex-flow: wrap;
+    flex-direction: row;
+}
+.tituloprecio{
+    margin-top: 0.2;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    font-size: 1.2rem;
+}
